@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
 ## Software I use
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)] 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)]() 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
