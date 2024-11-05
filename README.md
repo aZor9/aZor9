@@ -4,40 +4,24 @@
 
 
 ## Languages I use
+
 ### As back-end
-[![My Skills](https://skillicons.dev/icons?i=py)]()  
-[![My Skills](https://skillicons.dev/icons?i=cpp)]()  
-[![My Skills](https://skillicons.dev/icons?i=rust)]() 
-[![My Skills](https://skillicons.dev/icons?i=ts)]() 
+[![My Skills](https://skillicons.dev/icons?i=py)]()  [![My Skills](https://skillicons.dev/icons?i=php)]()  
+
 ### As front-end
-[![My Skills](https://skillicons.dev/icons?i=dart)]() 
-[![My Skills](https://skillicons.dev/icons?i=html)]() 
-[![My Skills](https://skillicons.dev/icons?i=css)]() 
-[![My Skills](https://skillicons.dev/icons?i=js)]()  
+[![My Skills](https://skillicons.dev/icons?i=dart)]() [![My Skills](https://skillicons.dev/icons?i=html)]() [![My Skills](https://skillicons.dev/icons?i=css)]() [![My Skills](https://skillicons.dev/icons?i=js)]()  
 
 ## Frameworks I use
-<!-- [![My Skills](https://skillicons.dev/icons?i=electron)]() -->
-[![My Skills](https://skillicons.dev/icons?i=flutter)]()  
-[![My Skills](https://skillicons.dev/icons?i=boostrap)]() 
+[![My Skills](https://skillicons.dev/icons?i=flutter)]()  [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() 
 
 ## Database I use 
-[![My Skills](https://skillicons.dev/icons?i=sqlite)]()  
-[![My Skills](https://skillicons.dev/icons?i=mysql)]()   
+[![My Skills](https://skillicons.dev/icons?i=sqlite)]()  [![My Skills](https://skillicons.dev/icons?i=mysql)]()   
 
 ## Software I use
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)]() 
-[![My Skills](https://skillicons.dev/icons?i=vscode)]()  
-[![My Skills](https://skillicons.dev/icons?i=figma)]() 
-[![My Skills](https://skillicons.dev/icons?i=github)]()   
-
-
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)]() [![My Skills](https://skillicons.dev/icons?i=vscode)]()  [![My Skills](https://skillicons.dev/icons?i=figma)]() [![My Skills](https://skillicons.dev/icons?i=github)]()   
 
 ## Other app
-[![My Skills](https://skillicons.dev/icons?i=notion)]() 
-[![My Skills](https://skillicons.dev/icons?i=obsidian)]()   
-[![My Skills](https://skillicons.dev/icons?i=ps)]() 
-[![My Skills](https://skillicons.dev/icons?i=blender)]() 
-[![My Skills](https://skillicons.dev/icons?i=discord)]() 
+[![My Skills](https://skillicons.dev/icons?i=notion)]() [![My Skills](https://skillicons.dev/icons?i=obsidian)]()   [![My Skills](https://skillicons.dev/icons?i=ps)]() [![My Skills](https://skillicons.dev/icons?i=blender)]()
 
 
 
