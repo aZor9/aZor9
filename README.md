@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hey 👋
 
 #### I'm Hugo, student at EPSI Montpellier.
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css" />
 
 
 |Back-end language|Front-end language| Framework | Database | Software | Other app |
@@ -12,4 +12,4 @@
 | |[![My Skills](https://skillicons.dev/icons?i=js)]()  | | | [![My Skills](https://skillicons.dev/icons?i=github)]()   | [![My Skills](https://skillicons.dev/icons?i=blender)]() |
 
 
-For any contact please contact me on my <a href="https://www.linkedin.com/in/hugo-lembrez/">Linkedin</a>
+For any contact please contact me on my  <a href="https://www.linkedin.com/in/hugo-lembrez/">Linkedin</a>
