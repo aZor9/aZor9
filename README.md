@@ -5,14 +5,24 @@
 
 ## Languages I use
 
-### As back-end
-[![My Skills](https://skillicons.dev/icons?i=py)]()  [![My Skills](https://skillicons.dev/icons?i=php)]()  
+|As back-end|As front-end|
+|:----:|:----:|
+|[![My Skills](https://skillicons.dev/icons?i=py)]()|[![My Skills](https://skillicons.dev/icons?i=dart)]()|
+|[![My Skills](https://skillicons.dev/icons?i=php)]()  |[![My Skills](https://skillicons.dev/icons?i=html)]()|
+| |[![My Skills](https://skillicons.dev/icons?i=css)]()|
+| |[![My Skills](https://skillicons.dev/icons?i=js)]()  |
 
-### As front-end
-[![My Skills](https://skillicons.dev/icons?i=dart)]() [![My Skills](https://skillicons.dev/icons?i=html)]() [![My Skills](https://skillicons.dev/icons?i=css)]() [![My Skills](https://skillicons.dev/icons?i=js)]()  
+
+
+|Back-end language|Front-end language| Framework |
+|:----:|:----:|:----:|
+|[![My Skills](https://skillicons.dev/icons?i=py)]()|[![My Skills](https://skillicons.dev/icons?i=dart)]()| [![My Skills](https://skillicons.dev/icons?i=flutter)]() | 
+|[![My Skills](https://skillicons.dev/icons?i=php)]()  |[![My Skills](https://skillicons.dev/icons?i=html)]()| [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() |
+| |[![My Skills](https://skillicons.dev/icons?i=css)]()| [![My Skills](https://skillicons.dev/icons?i=symfony)]() | 
+| |[![My Skills](https://skillicons.dev/icons?i=js)]()  | |
 
 ## Frameworks I use
-[![My Skills](https://skillicons.dev/icons?i=flutter)]()  [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() 
+[![My Skills](https://skillicons.dev/icons?i=flutter)]()  [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() [![My Skills](https://skillicons.dev/icons?i=symfony)]() 
 
 ## Database I use 
 [![My Skills](https://skillicons.dev/icons?i=sqlite)]()  [![My Skills](https://skillicons.dev/icons?i=mysql)]()   
