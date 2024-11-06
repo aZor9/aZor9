@@ -13,8 +13,8 @@
 | |[![My Skills](https://skillicons.dev/icons?i=js)]()  | | | [![My Skills](https://skillicons.dev/icons?i=github)]()   | [![My Skills](https://skillicons.dev/icons?i=blender)]() |
 
 
-For any contact please contact me on  [![Static Badge](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/hugo-lembrez/) [![Static Badge](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/hugo.lembrez) [![Static Badge](https://img.shields.io/badge/Bento-green)](https://bento.me/hugol)
+For any contact please contact me on my <a href="https://www.linkedin.com/in/hugo-lembrez/">Linkedin</a>
 
 
-
+[![Static Badge](https://img.shields.io/badge/My_Bento-green)](https://bento.me/hugol)
 
