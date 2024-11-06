@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css" />
 
 
+
 |Back-end language|Front-end language| Framework | Database | Software | Other app |
 |:----:|:----:|:----:| :----:|:----:|:----:|
 |[![My Skills](https://skillicons.dev/icons?i=py)]()|[![My Skills](https://skillicons.dev/icons?i=dart)]()| [![My Skills](https://skillicons.dev/icons?i=flutter)]() | [![My Skills](https://skillicons.dev/icons?i=sqlite)]() | [![My Skills](https://skillicons.dev/icons?i=androidstudio)]() | [![My Skills](https://skillicons.dev/icons?i=notion)]() |
@@ -13,3 +14,8 @@
 
 
 For any contact please contact me on my  <a href="https://www.linkedin.com/in/hugo-lembrez/">Linkedin</a>
+
+
+![Static Badge](https://img.shields.io/badge/Hugo_Lembrez-Linkedin-blue)
+![Static Badge](https://img.shields.io/badge/Hugo_Lembrez-Instagram-red)
+![Static Badge](https://img.shields.io/badge/hugol-Bento-green)
