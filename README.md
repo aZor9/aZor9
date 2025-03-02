@@ -9,7 +9,7 @@
 |:----:|:----:|:----:| :----:|:----:|:----:|
 |[![My Skills](https://skillicons.dev/icons?i=py)]()|[![My Skills](https://skillicons.dev/icons?i=dart)]()| [![My Skills](https://skillicons.dev/icons?i=flutter)]() | [![My Skills](https://skillicons.dev/icons?i=sqlite)]() | [![My Skills](https://skillicons.dev/icons?i=androidstudio)]() | [![My Skills](https://skillicons.dev/icons?i=notion)]() |
 |[![My Skills](https://skillicons.dev/icons?i=php)]()  |[![My Skills](https://skillicons.dev/icons?i=html)]()| [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() | [![My Skills](https://skillicons.dev/icons?i=mysql)]()   |  [![My Skills](https://skillicons.dev/icons?i=vscode)]() |  [![My Skills](https://skillicons.dev/icons?i=obsidian)]() |
-| |[![My Skills](https://skillicons.dev/icons?i=css)]()| [![My Skills](https://skillicons.dev/icons?i=symfony)]() | |  [![My Skills](https://skillicons.dev/icons?i=figma)]() |  [![My Skills](https://skillicons.dev/icons?i=ps)]() |
+| [![My Skills](https://skillicons.dev/icons?i=bash)]() |[![My Skills](https://skillicons.dev/icons?i=css)]()| [![My Skills](https://skillicons.dev/icons?i=symfony)]() | |  [![My Skills](https://skillicons.dev/icons?i=figma)]() |  [![My Skills](https://skillicons.dev/icons?i=ps)]() |
 | |[![My Skills](https://skillicons.dev/icons?i=js)]()  | | | [![My Skills](https://skillicons.dev/icons?i=github)]()   | [![My Skills](https://skillicons.dev/icons?i=blender)]() |
 
 
