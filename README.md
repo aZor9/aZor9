@@ -10,23 +10,22 @@
 ### 🔹 Back-end  
 | Python | PHP | Symfony | Django | Node.js |
 |---|---|---|---|---|
-| [![My Skills](https://skillicons.dev/icons?i=py)]() | [![My Skills](https://skillicons.dev/icons?i=php)]() | [![My Skills](https://skillicons.dev/icons?i=symfony)]() | [![My Skills](https://skillicons.dev/icons?i=django)]() | [![My Skills](https://skillicons.dev/icons?i=nodejs)]() |
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=py)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=php)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=symfony)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=django)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=nodejs)</div> |
 
 ### 🔹 Front-end  
 | HTML5 | CSS3 | JavaScript | Vue.js | React | Bootstrap |
 |---|---|---|---|---|---|
-| [![My Skills](https://skillicons.dev/icons?i=html)]() | [![My Skills](https://skillicons.dev/icons?i=css)]() | [![My Skills](https://skillicons.dev/icons?i=js)]() | [![My Skills](https://skillicons.dev/icons?i=vuejs)]() | [![My Skills](https://skillicons.dev/icons?i=react)]() | [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() |
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=html)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=css)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=js)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=vuejs)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=react)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=bootstrap)</div> |
 
 ### 🔹 Database  
 | MySQL | SQLite | SQL Server |
 |---|---|---|
-| [![My Skills](https://skillicons.dev/icons?i=mysql)]() | [![My Skills](https://skillicons.dev/icons?i=sqlite)]() | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/> |
-
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=mysql)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=sqlite)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/></div> |
 
 ### 🔹 Tools  
-| VS Code | Android Studio | Figma | GitHub | Notion | Blender |
-|---|---|---|---|---|---|
-| [![My Skills](https://skillicons.dev/icons?i=vscode)]() | [![My Skills](https://skillicons.dev/icons?i=androidstudio)]() | [![My Skills](https://skillicons.dev/icons?i=figma)]() | [![My Skills](https://skillicons.dev/icons?i=github)]() | [![My Skills](https://skillicons.dev/icons?i=notion)]() | [![My Skills](https://skillicons.dev/icons?i=blender)]() |
+| VS Code | Android Studio | Figma | GitHub |
+|---|---|---|---|
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=vscode)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=androidstudio)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=figma)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=github)</div> |
 
 ---
 
@@ -34,8 +33,7 @@
 
 | LinkedIn | Gmail | Voir plus |
 |---|---|---|
-| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hugo-lembrez/) | [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hugo.lembrez@gmail.com) | [Bento](https://bento.me/hugol) |
-
+| <div align="center">[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hugo-lembrez/)</div> | <div align="center">[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hugo.lembrez@gmail.com)</div> | <div align="center">[Bento](https://bento.me/hugol)</div> |
 
 ---
 
