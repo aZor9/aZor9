@@ -8,14 +8,20 @@
 ## 🛠️ My Tech Stack  
 
 ### 🔹 Front-end  
-| HTML5 | CSS3 | JavaScript | Vue.js | React | Bootstrap |
-|---|---|---|---|---|---|
-| <div align="center">![My Skills](https://skillicons.dev/icons?i=html)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=css)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=js)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=vuejs)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=react)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=bootstrap)</div> |
+| HTML5 | CSS3 | JavaScript | Vue.js | React | Bootstrap | Tailwind |
+|---|---|---|---|---|---|---|
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=html)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=css)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=js)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=vuejs)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=react)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=bootstrap)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=tailwind)</div> |
 
 ### 🔹 Back-end  
 | Python | PHP | Symfony | Django | Node.js |
 |---|---|---|---|---|
 | <div align="center">![My Skills](https://skillicons.dev/icons?i=py)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=php)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=symfony)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=django)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=nodejs)</div> |
+
+### 🔹 Mobile  
+| Dart | Flutter |
+|---|---|
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=dart)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=flutter)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/></div> |
+
 
 ### 🔹 Database  
 | MySQL | SQLite | SQL Server |
