@@ -7,15 +7,15 @@
 
 ## 🛠️ My Tech Stack  
 
-### 🔹 Back-end  
-| Python | PHP | Symfony | Django | Node.js |
-|---|---|---|---|---|
-| <div align="center">![My Skills](https://skillicons.dev/icons?i=py)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=php)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=symfony)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=django)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=nodejs)</div> |
-
 ### 🔹 Front-end  
 | HTML5 | CSS3 | JavaScript | Vue.js | React | Bootstrap |
 |---|---|---|---|---|---|
 | <div align="center">![My Skills](https://skillicons.dev/icons?i=html)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=css)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=js)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=vuejs)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=react)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=bootstrap)</div> |
+
+### 🔹 Back-end  
+| Python | PHP | Symfony | Django | Node.js |
+|---|---|---|---|---|
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=py)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=php)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=symfony)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=django)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=nodejs)</div> |
 
 ### 🔹 Database  
 | MySQL | SQLite | SQL Server |
