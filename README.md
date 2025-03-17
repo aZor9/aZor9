@@ -1,20 +1,47 @@
-# Hey 👋
+# 🚀 Hey, I'm Hugo! 👋  
 
-#### I'm Hugo, student at EPSI Montpellier.
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/dist/tabler-icons.min.css" />
+### 🎓 Étudiant en 2e année à EPSI Montpellier (option développement)  
+🔍 À la recherche d'une **alternance** en **développement** à Montpellier dès **septembre 2025**  
+
+---
+
+## 🛠️ My Tech Stack  
+
+### 🔹 Back-end  
+| Python | PHP | Symfony | Django | Node.js |
+|---|---|---|---|---|
+| [![My Skills](https://skillicons.dev/icons?i=py)]() | [![My Skills](https://skillicons.dev/icons?i=php)]() | [![My Skills](https://skillicons.dev/icons?i=symfony)]() | [![My Skills](https://skillicons.dev/icons?i=django)]() | [![My Skills](https://skillicons.dev/icons?i=nodejs)]() |
+
+### 🔹 Front-end  
+| HTML5 | CSS3 | JavaScript | Vue.js | React | Bootstrap |
+|---|---|---|---|---|---|
+| [![My Skills](https://skillicons.dev/icons?i=html)]() | [![My Skills](https://skillicons.dev/icons?i=css)]() | [![My Skills](https://skillicons.dev/icons?i=js)]() | [![My Skills](https://skillicons.dev/icons?i=vuejs)]() | [![My Skills](https://skillicons.dev/icons?i=react)]() | [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() |
+
+### 🔹 Database  
+| MySQL | SQLite | SQL Server |
+|---|---|---|
+| [![My Skills](https://skillicons.dev/icons?i=mysql)]() | [![My Skills](https://skillicons.dev/icons?i=sqlite)]() | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/> |
 
 
+### 🔹 Tools  
+| VS Code | Android Studio | Figma | GitHub | Notion | Blender |
+|---|---|---|---|---|---|
+| [![My Skills](https://skillicons.dev/icons?i=vscode)]() | [![My Skills](https://skillicons.dev/icons?i=androidstudio)]() | [![My Skills](https://skillicons.dev/icons?i=figma)]() | [![My Skills](https://skillicons.dev/icons?i=github)]() | [![My Skills](https://skillicons.dev/icons?i=notion)]() | [![My Skills](https://skillicons.dev/icons?i=blender)]() |
 
-|Back-end language|Front-end language| Framework | Database | Software | Other app |
-|:----:|:----:|:----:| :----:|:----:|:----:|
-|[![My Skills](https://skillicons.dev/icons?i=py)]()|[![My Skills](https://skillicons.dev/icons?i=dart)]()| [![My Skills](https://skillicons.dev/icons?i=flutter)]() | [![My Skills](https://skillicons.dev/icons?i=sqlite)]() | [![My Skills](https://skillicons.dev/icons?i=androidstudio)]() | [![My Skills](https://skillicons.dev/icons?i=notion)]() |
-|[![My Skills](https://skillicons.dev/icons?i=php)]()  |[![My Skills](https://skillicons.dev/icons?i=html)]()| [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() | [![My Skills](https://skillicons.dev/icons?i=mysql)]()   |  [![My Skills](https://skillicons.dev/icons?i=vscode)]() |  [![My Skills](https://skillicons.dev/icons?i=obsidian)]() |
-| [![My Skills](https://skillicons.dev/icons?i=bash)]() |[![My Skills](https://skillicons.dev/icons?i=css)]()| [![My Skills](https://skillicons.dev/icons?i=symfony)]() | |  [![My Skills](https://skillicons.dev/icons?i=figma)]() |  [![My Skills](https://skillicons.dev/icons?i=ps)]() |
-| |[![My Skills](https://skillicons.dev/icons?i=js)]()  | | | [![My Skills](https://skillicons.dev/icons?i=github)]()   | [![My Skills](https://skillicons.dev/icons?i=blender)]() |
+---
+
+## 📬 Contact  
+
+| LinkedIn | Gmail | Voir plus |
+|---|---|---|
+| [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hugo-lembrez/) | [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hugo.lembrez@gmail.com) | [Bento](https://bento.me/hugol) |
 
 
-For any contact please contact me on my <a href="https://www.linkedin.com/in/hugo-lembrez/">Linkedin</a>
+---
 
+## 📊 GitHub Stats  
 
-[![Static Badge](https://img.shields.io/badge/My_Bento-green)](https://bento.me/hugol)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aZor9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aZor9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
