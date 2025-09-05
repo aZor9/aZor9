@@ -1,6 +1,6 @@
-# 🚀 Hey, I'm Hugo! 👋  
+# 🚀 Hey, Je suis Hugo ! 👋  
 
-### 🎓 Étudiant en 2e année à EPSI Montpellier (option développement)  
+### 🎓 Étudiant en 3ième année à EPSI Montpellier en Bachelor Developpeur Full-Stack  
 🔍 À la recherche d'une **alternance** en **développement** à Montpellier dès **septembre 2025**  
 
 ---
