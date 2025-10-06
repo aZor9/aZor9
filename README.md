@@ -29,9 +29,9 @@
 | <div align="center">![My Skills](https://skillicons.dev/icons?i=mysql)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=sqlite)</div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/></div> |
 
 ### 🔹 Tools  
-| VS Code | Android Studio | Figma | GitHub |
-|---|---|---|---|
-| <div align="center">![My Skills](https://skillicons.dev/icons?i=vscode)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=androidstudio)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=figma)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=github)</div> |
+| VS Code | Android Studio | Docker | Figma | GitHub |
+|---|---|---|---|---|
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=vscode)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=androidstudio)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=docker)</div>  | <div align="center">![My Skills](https://skillicons.dev/icons?i=figma)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=github)</div> |
 
 ---
 
