@@ -1,7 +1,7 @@
 # 🚀 Hey, Je suis Hugo ! 👋  
 
 ### 🎓 Étudiant en 3ième année à EPSI Montpellier en Bachelor Developpeur Full-Stack  
-🔍 À la recherche d'une **alternance** en **développement** à Montpellier dès **septembre 2025**  
+🔍 À la recherche d'une **alternance** en **développement** à Montpellier avant **décembre 2025**  
 
 ---
 
@@ -13,9 +13,9 @@
 | <div align="center">![My Skills](https://skillicons.dev/icons?i=html)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=css)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=js)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=vuejs)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=react)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=bootstrap)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=tailwind)</div> |
 
 ### 🔹 Back-end  
-| Python | PHP | Symfony | Django | Node.js |
-|---|---|---|---|---|
-| <div align="center">![My Skills](https://skillicons.dev/icons?i=py)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=php)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=symfony)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=django)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=nodejs)</div> |
+| Python | PHP | C# (C Sharp) | Symfony | Django | Node.js |
+|---|---|---|---|---|---|
+| <div align="center">![My Skills](https://skillicons.dev/icons?i=py)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=php)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=cs)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=symfony)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=django)</div> | <div align="center">![My Skills](https://skillicons.dev/icons?i=nodejs)</div> |
 
 ### 🔹 Mobile  
 | Dart | Flutter |
