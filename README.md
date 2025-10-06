@@ -6,6 +6,7 @@
 ---
 
 ## 🛠️ Les languages/technologies que j'utilise 
+<div align="center">
 
 | Front-end | Back-end | Framework | Mobile | Database | Tools |
 |---|---|---|---|---|---|
@@ -15,7 +16,7 @@
 | &nbsp; | **C# (C Sharp)**<br/><div align="center">![C#](https://skillicons.dev/icons?i=cs)</div> | **Symfony**<br/><div align="center">![Symfony](https://skillicons.dev/icons?i=symfony)</div> | &nbsp; | &nbsp; | **Figma**<br/><div align="center">![Figma](https://skillicons.dev/icons?i=figma)</div> |
 | &nbsp; | **Java**<br/><div align="center">![Java](https://skillicons.dev/icons?i=java)</div> | **Django**<br/><div align="center">![Django](https://skillicons.dev/icons?i=django)</div> | &nbsp; | &nbsp; | **GitHub**<br/><div align="center">![GitHub](https://skillicons.dev/icons?i=github)</div> |
 
-
+</div>
 ---
 
 ## 📬 Contact
