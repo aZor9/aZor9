@@ -3,7 +3,7 @@
 ### 🎓 Étudiant en 3ième année à EPSI Montpellier en Bachelor Developpeur Full-Stack  
 🔍 À la recherche d'une **alternance** en **développement** à Montpellier avant **décembre 2025**  
 
----
+
 
 ## 🛠️ Les languages/technologies que j'utilise 
 <div align="center">
@@ -17,7 +17,7 @@
 | &nbsp; | **Java**<br/><div align="center">![Java](https://skillicons.dev/icons?i=java)</div> | **Django**<br/><div align="center">![Django](https://skillicons.dev/icons?i=django)</div> | &nbsp; | &nbsp; | **GitHub**<br/><div align="center">![GitHub](https://skillicons.dev/icons?i=github)</div> |
 
 </div>
----
+
 
 ## 📬 Contact
 
@@ -26,7 +26,6 @@
 🌐 **Bento** → [bento.me/hugol](https://bento.me/hugol) <br>
 
 
----
 
 ## 📊 Statistiques Github  
 
