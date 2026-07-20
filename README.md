@@ -1,8 +1,7 @@
 # Salutation, Je suis Hugo !  
 
-### 🎓 Étudiant en 3e année à EPSI Montpellier en Bachelor Developpeur Full-Stack  
-🔍 À la recherche d'une **alternance** en **développement web full-stack** à Montpellier pour **Septembre 2026**  
-
+### 🎓 Étudiant en 4e année à EPSI Montpellier en Master Expert en Informatique et Système d'Information (EISI)
+🚀 En **alternance** en **développement web frontend** à Montpellier  
 
 
 ## 🛠️ Les languages/technologies que j'utilise 
@@ -14,7 +13,7 @@
 | **CSS3**<br/><div align="center">![CSS3](https://skillicons.dev/icons?i=css)</div> | **PHP**<br/><div align="center">![PHP](https://skillicons.dev/icons?i=php)</div> | **React Js**<br/><div align="center">![React](https://skillicons.dev/icons?i=react)</div> | **Flutter**<br/><div align="center">![Flutter](https://skillicons.dev/icons?i=flutter)</div> | **SQLite**<br/><div align="center">![SQLite](https://skillicons.dev/icons?i=sqlite)</div> | **Android Studio**<br/><div align="center">![Android Studio](https://skillicons.dev/icons?i=androidstudio)</div> |
 | **Bootstrap**<br/><div align="center">![Bootstrap](https://skillicons.dev/icons?i=bootstrap)</div> | **JavaScript**<br/><div align="center">![JS](https://skillicons.dev/icons?i=js)</div> | **Symfony**<br/><div align="center">![Symfony](https://skillicons.dev/icons?i=symfony)</div> | **Kotlin**<br/><div align="center">![Kotlin](https://skillicons.dev/icons?i=kotlin)</div> | **SQL Server**<br/><div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/></div> | **Docker**<br/><div align="center">![Docker](https://skillicons.dev/icons?i=docker)</div> |
 | **Tailwind**<br/><div align="center">![Tailwind](https://skillicons.dev/icons?i=tailwind)</div> | **C# (C Sharp)**<br/><div align="center">![C#](https://skillicons.dev/icons?i=cs)</div> | **Django**<br/><div align="center">![Django](https://skillicons.dev/icons?i=django)</div>  | &nbsp; | **PostgreSQL**<br/><div align="center">![PostgreSQL](https://skillicons.dev/icons?i=postgresql)</div> | **Figma**<br/><div align="center">![Figma](https://skillicons.dev/icons?i=figma)</div> |
-| &nbsp; | **Java**<br/><div align="center">![Java](https://skillicons.dev/icons?i=java)</div> | **Angular**<br/><div align="center">![Angular](https://skillicons.dev/icons?i=angular)</div> | &nbsp; | &nbsp; | **Git / GitHub**<br/><div align="center">![GitHub](https://skillicons.dev/icons?i=github)</div> |
+| &nbsp; | **Java**<br/><div align="center">![Java](https://skillicons.dev/icons?i=java)</div> | **Angular**<br/><div align="center">![Angular](https://skillicons.dev/icons?i=angular)</div> | &nbsp; | **MongoDB**<br/><div align="center">![MongoDB](https://skillicons.dev/icons?i=mongodb)| **Git / GitHub**<br/><div align="center">![GitHub](https://skillicons.dev/icons?i=github)</div> |
 
 </div>
 
